@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 .coverage
-sd.sqlite
-sd/local_settings.py
+*.sqlite3
+hc/local_settings.py
 static-collected
 *.log
 .DS_*
