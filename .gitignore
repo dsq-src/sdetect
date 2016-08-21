@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.coverage
+sd.sqlite
+sd/local_settings.py
+static-collected
+*.log
+.DS_*
+.idea
