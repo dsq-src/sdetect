@@ -127,4 +127,7 @@ STATIC_URL = '/static/'
 
 
 # Ext Setting
+HOST = "localhost"
 SITE_ROOT = "http://localhost:8000"
+PING_ENDPOINT = SITE_ROOT + "/ping/"
+PING_EMAIL_DOMAIN = HOST
